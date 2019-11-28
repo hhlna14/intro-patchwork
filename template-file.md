@@ -3,7 +3,7 @@ layout: slide
 title: "This is my funny caption"
 ---
 
-Caption here
+more weight to crush after nasi lemak pandan ayam rendang
 
-![femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
+![dinocat](https://octodex.github.com/images/dinotocat.png)
 {: .center}
